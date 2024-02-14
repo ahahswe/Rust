@@ -1,4 +1,4 @@
-// Import the required modules for File I/O and regular expressions.
+// Import the required modules for File I/O and regular expressions
 use regex::Regex;
 use std::fs::File;
 use std::io::{BufRead, BufReader};
