@@ -11,7 +11,7 @@ fn factorial(n: u64) -> u64 {
 
 fn main() {
     // Define the number for which we want to calculate the factorial
-    let num: u64 = 20;
+    let num: u64 = 5;
     // Call the factorial function and store the result
     let result: u64 = factorial(num);
     // Print the result to the console
